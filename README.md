@@ -11,8 +11,8 @@ while구문 :`True`, `:continue`
 for구문 : `range()`
 
 #J.Y_Pracetice
-백준 문제
-2884번 (if구문)
+백준 문제;
+입출력과 사칙연산 완
 
 #BaekJoon's_Practice
 입출력과 사칙연산
