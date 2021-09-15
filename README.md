@@ -5,6 +5,10 @@
 튜플 자료형, 딕셔너리 자료형, key 리스트 만들기 `a.keys()`, Value 리스트 만들기 `a.values()` key, value 쌍 얻기 `a.items()`, key:Value 쌍 모두 지우기 `a.clear`
 해당 key가 딕셔너리 안에 있는지 조사하기 `'' in a`, 집합 자료형, 볼 자료형
 
+#Control_Statement
+if구문 if, else, elif in[]
+while구문 :True, :continue
+
 #J.Y_Pracetice
 백준 문제
 2884번 (if구문)
