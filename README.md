@@ -15,4 +15,4 @@ for구문 : `range()`
 2884번 (if구문)
 
 #BaekJoon's_Practice
-입출력과 사칙연산
+입출력과 사칙연산 모두 
