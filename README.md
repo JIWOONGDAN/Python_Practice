@@ -6,8 +6,9 @@
 해당 key가 딕셔너리 안에 있는지 조사하기 `'' in a`, 집합 자료형, 볼 자료형
 
 #Control_Statement
-if구문 if, else, elif in[]
-while구문 :True, :continue
+if구문 `if`, `else`, `elif` `in[]`
+while구문 :`True`, `:continue`
+for구문 : `range()`
 
 #J.Y_Pracetice
 백준 문제
