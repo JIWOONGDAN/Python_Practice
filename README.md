@@ -10,6 +10,11 @@ if구문 `if`, `else`, `elif` `in[]`
 while구문 :`True`, `:continue`
 for구문 : `range()`
 
+#Another_of_Python
+부분별로 나눠 계산하기 `class`, 전체 설정 `global`
+불러오기 `import`
+
+
 #J.Y_Pracetice
 백준 문제
 2884번 (if구문)
