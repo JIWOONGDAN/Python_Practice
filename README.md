@@ -10,6 +10,9 @@ if구문 `if`, `else`, `elif` `in[]`
 while구문 :`True`, `:continue`
 for구문 : `range()`
 
+#Input and Output
+function `def`, 입력하기 `input()`, 열기 `open()`, 읽기모드 `'r'`, 쓰기 모드 `'w'`, 추가 모드 `'a'`, 한줄 읽기 `readline()`, 모든 줄 읽기 `readlines()`, `read()`  
+
 #Another_of_Python
 부분별로 나눠 계산하기 `class`, 전체 설정 `global`
 불러오기 `import`
