@@ -11,11 +11,12 @@ while구문 :`True`, `:continue`
 for구문 : `range()`
 
 #Input and Output
-function `def`, 입력하기 `input()`, 열기 `open()`, 읽기모드 `'r'`, 쓰기 모드 `'w'`, 추가 모드 `'a'`, 한줄 읽기 `readline()`, 모든 줄 읽기 `readlines()`, `read()`  
+function `def`, 익명(인스턴스) 함수 `lambda` 입력하기 `input()`, 열기 `open()`, 읽기모드 `'r'`, 쓰기 모드 `'w'`, 추가 모드 `'a'`, 한줄 읽기 `readline()`, 모든 줄 읽기 `readlines()`, `read()`  
 
 #Another_of_Python
 부분별로 나눠 계산하기 `class`, 전체 설정 `global`
-불러오기 `import`
+불러오기 `import` 예외두기 `try :`,`except:` 오류 일부러 발생시키기 `raise`
+절대값 `abs` 모두가 참 `all` 하나라도 참 `any` 아스키 코드 해석 `chr` 아스키 코드로 돌려주기 `ord` 자체적으로 가진 변수나 함수 `dir` 몫과 나머지 `divmod` 열거하기 `enumerate` 문자열을 입력으로 받아 실행값 돌려주기 `eval` 참인 것만 묶어서 걸러내기 `filter` 16진수 나타내기 `hex()` 8진수 나타내기 `oct()` 고유주소값 나타내기 `id()`, 정수로 돌려주는 함수 `int` 클래스 확인하기 `ininstance(object, class)` 입력값 s의 길이 `len(s)` 반복 가능한 자료형 s 리스트로 돌려주기 `list(s)` 함수(f)와 반복 가능한 자료형(iterable)을 묶어서 돌려주는 함수 `map(f, iterable)` 최댓값 돌려주는 함수 `max` 최솟값 돌려주는 함수 `min` 제곱값 돌려주는 함수 `pow(x,y)` 범위값을 반복 가능한 개체로 만들기 `range(start, end, step)` 반올림해주는 함수 `round` 입력값을 정렬 및 리스트로 나타내는 함수 `sorted` 객채를 문자열로 나타내는 함수 `str` 리스트나 튜플의 모든 요소의 합을 나타내는 함수 `sum` 반복 가능한 자료형을 튜플 형태로 나타내는 함수 `tuple` 입력값의 자료형이 무엇인지 알려주는 함수 `type(object)` 동일한 개수로 이루어진 자료형을 묶어주는 함수 `zip(*iteralbe)`
 
 
 #J.Y_Pracetice
